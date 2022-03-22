@@ -1,0 +1,15 @@
+/home/carol/Visual Studio/JogoRPG/bin/Debug/net6.0/JogoRPG
+/home/carol/Visual Studio/JogoRPG/bin/Debug/net6.0/JogoRPG.deps.json
+/home/carol/Visual Studio/JogoRPG/bin/Debug/net6.0/JogoRPG.runtimeconfig.json
+/home/carol/Visual Studio/JogoRPG/bin/Debug/net6.0/JogoRPG.dll
+/home/carol/Visual Studio/JogoRPG/bin/Debug/net6.0/ref/JogoRPG.dll
+/home/carol/Visual Studio/JogoRPG/bin/Debug/net6.0/JogoRPG.pdb
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.AssemblyReference.cache
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfoInputs.cache
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfo.cs
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.CoreCompileInputs.cache
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.dll
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/ref/JogoRPG.dll
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.pdb
+/home/carol/Visual Studio/JogoRPG/obj/Debug/net6.0/JogoRPG.genruntimeconfig.cache
